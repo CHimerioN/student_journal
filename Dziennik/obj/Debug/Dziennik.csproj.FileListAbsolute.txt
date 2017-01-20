@@ -1,0 +1,8 @@
+c:\users\matitam\documents\visual studio 2015\Projects\Dziennik\Dziennik\bin\Debug\Dziennik.exe.config
+c:\users\matitam\documents\visual studio 2015\Projects\Dziennik\Dziennik\bin\Debug\Dziennik.exe
+c:\users\matitam\documents\visual studio 2015\Projects\Dziennik\Dziennik\bin\Debug\Dziennik.pdb
+c:\users\matitam\documents\visual studio 2015\Projects\Dziennik\Dziennik\obj\Debug\Dziennik.csprojResolveAssemblyReference.cache
+c:\users\matitam\documents\visual studio 2015\Projects\Dziennik\Dziennik\obj\Debug\Dziennik.exe
+c:\users\matitam\documents\visual studio 2015\Projects\Dziennik\Dziennik\obj\Debug\Dziennik.pdb
+C:\Users\Matitam\documents\visual studio 2015\Projects\Dziennik\Dziennik\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Matitam\documents\visual studio 2015\Projects\Dziennik\Dziennik\bin\Debug\Newtonsoft.Json.xml
